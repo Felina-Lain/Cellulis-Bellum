@@ -1,0 +1,98 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : GOD-proto.indd
+
+DATE D'ASSEMBLAGE : 04/06/2015 12:16
+Date de création : 04/06/2015
+Date de modification : 04/06/2015
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Page1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, D, S
+
+POLICES
+1 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Magenta quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Jaune quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Noir quadri; Angle : 0,000; Lignes/pouce : 0,000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 87 Lien(s) détecté(s); 0 Modifié(s), 13 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 87 utilisant l'espace colorimétrique RVB
+
+- Nom : 11046650_459273007571003_6416347312388290523_n.jpg; Type : JPEG RVB; Etat : Manquant(e)(s)
+- Nom : 21686_459273084237662_6804649173577289893_n.jpg; Type : JPEG RVB; Etat : Manquant(e)(s)
+- Nom : Cellules.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : Image1.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : Image2.jpg; Type : JPEG RVB; Etat : Manquant(e)(s)
+- Nom : Roi.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : Roi.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : Virus.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : Virus1.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : Virus2.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : plateau.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : plateau.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+- Nom : postit_note.png; Type : Portable Network Graphics (PNG) RVB; Etat : Manquant(e)(s)
+
+PARAMETRES D'IMPRESSION
+PPD : N/A, (Send To OneNote 2013)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : RVB composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : A4
+Dimensions du papier : 210 mm x 297 mm
+Orientation : Portrait
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. GOD-proto.indd; type : Composition Adobe InDesign; taille : 9164K
+2. GOD-proto.idml; type : Document InDesign Markup; taille : 1250K
+3. GOD-proto.pdf; type : Document Adobe Acrobat; taille : 6350K
+4. MinionPro-Regular.otf; type : Fichier de polices; taille : 213K

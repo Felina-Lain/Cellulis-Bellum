@@ -1,0 +1,7 @@
+Bocquet Marine = programmation des mécanismes / Graphismes
+
+Guillot Sacha = Documentation / Présentation
+
+Mouravieff Nicolas = Documentation /Graphismes
+
+Grondin Vincent = programmation du HUD
